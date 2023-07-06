@@ -1,0 +1,17 @@
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Repository\bin\Debug\net7.0\Repository.deps.json
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Repository\bin\Debug\net7.0\Repository.dll
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Repository\bin\Debug\net7.0\Repository.pdb
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Repository\bin\Debug\net7.0\Data.dll
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Repository\bin\Debug\net7.0\Entities.dll
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Repository\bin\Debug\net7.0\Data.pdb
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Repository\bin\Debug\net7.0\Entities.pdb
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Repository\obj\Debug\net7.0\Repository.dll
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Repository\obj\Debug\net7.0\refint\Repository.dll
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Repository\obj\Debug\net7.0\Repository.pdb
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Repository\obj\Debug\net7.0\ref\Repository.dll

@@ -1,0 +1,17 @@
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Data\bin\Debug\net7.0\Data.deps.json
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Data\bin\Debug\net7.0\Data.runtimeconfig.json
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Data\bin\Debug\net7.0\Data.dll
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Data\bin\Debug\net7.0\Data.pdb
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Data\bin\Debug\net7.0\Entities.dll
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Data\bin\Debug\net7.0\Entities.pdb
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Data\obj\Debug\net7.0\Data.csproj.CopyComplete
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Data\obj\Debug\net7.0\Data.dll
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Data\obj\Debug\net7.0\refint\Data.dll
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Data\obj\Debug\net7.0\Data.pdb
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Data\obj\Debug\net7.0\Data.genruntimeconfig.cache
+C:\Beaconfire\Personal Project\.NET7 Gym Management System\GymMaster\Data\obj\Debug\net7.0\ref\Data.dll
